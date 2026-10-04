@@ -19,7 +19,7 @@ Software Engineering student interested in software development and AI. Still le
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,tensorflow&perline=10" alt="Python, HTML5, CSS3, JavaScript, TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,tensorflow&perline=10" alt="Python, TypeScript, JavaScript, HTML5, CSS3, React, TensorFlow" />
 </p>
 
 ## Projects
