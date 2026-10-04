@@ -14,7 +14,7 @@
 
 ---
 
-Mahasiswa Software Engineering yang tertarik pada pengembangan software dan AI. Masih belajar, dan senang membangun sambil belajar.
+Software Engineering student interested in software development and AI. Still learning, and enjoy building along the way.
 
 ## Tech stack
 
@@ -22,7 +22,7 @@ Mahasiswa Software Engineering yang tertarik pada pengembangan software dan AI. 
   <img src="https://skillicons.dev/icons?i=py,html,css,js,tensorflow&perline=10" alt="Python, HTML5, CSS3, JavaScript, TensorFlow" />
 </p>
 
-## Proyek
+## Projects
 
 <p align="center">
   <a href="https://github.com/zmy16/Tomato-Leaf-AI-Diagnosis"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=Tomato-Leaf-AI-Diagnosis&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="Tomato-Leaf-AI-Diagnosis" /></a>
