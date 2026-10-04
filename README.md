@@ -25,7 +25,7 @@ Mahasiswa Software Engineering yang tertarik pada pengembangan software dan AI. 
 ## Proyek
 
 <p align="center">
-  <a href="https://github.com/zmy16/Tomato-Leaf-AI-Diagnosis"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=Tomato-Leaf-AI-Diagnosis&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="Tomato-Leaf-AI-Diagnosis" /></a>
-  <a href="https://github.com/zmy16/terakhir-kali-app"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=terakhir-kali-app&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="terakhir-kali-app" /></a>
-  <a href="https://github.com/zmy16/Needleman-Wunsch-Algorithm"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=Needleman-Wunsch-Algorithm&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="Needleman-Wunsch-Algorithm" /></a>
+  <a href="https://github.com/zmy16/Tomato-Leaf-AI-Diagnosis"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=Tomato-Leaf-AI-Diagnosis&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="Tomato-Leaf-AI-Diagnosis" /></a>
+  <a href="https://github.com/zmy16/terakhir-kali-app"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=terakhir-kali-app&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="terakhir-kali-app" /></a>
+  <a href="https://github.com/zmy16/Needleman-Wunsch-Algorithm"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=Needleman-Wunsch-Algorithm&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="Needleman-Wunsch-Algorithm" /></a>
 </p>
