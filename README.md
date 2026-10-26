@@ -1,9 +1,8 @@
-<table align="center" border="0">
-  <tr>
-    <td valign="middle"><h1>Hi, I'm Raid</h1></td>
-    <td valign="middle"><img src="./assets/wave.gif" width="34" height="33" alt="waving hand" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/wave.gif" width="64" height="62" alt="waving hand" />
+</p>
+
+<h1 align="center">Hi, I'm Raid</h1>
 
 <p align="center">
   <a href="https://github.com/zmy16">
@@ -28,10 +27,10 @@ Software Engineering student interested in software development and AI. Still le
 ## Projects
 
 <p align="center">
-  <a href="https://github.com/zmy16/Tomato-Leaf-AI-Diagnosis"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=Tomato-Leaf-AI-Diagnosis&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="Tomato-Leaf-AI-Diagnosis" /></a>
-  <a href="https://github.com/zmy16/terakhir-kali-app"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=terakhir-kali-app&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="terakhir-kali-app" /></a>
-  <a href="https://github.com/zmy16/seqalign"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=seqalign&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="seqalign" /></a>
-  <a href="https://github.com/zmy16/SenandCode"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=SenandCode&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="SenandCode" /></a>
-  <a href="https://github.com/zmy16/absa-indo"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=absa-indo&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="absa-indo" /></a>
-  <a href="https://github.com/zmy16/re-to-dfa-visualizer"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=re-to-dfa-visualizer&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="re-to-dfa-visualizer" /></a>
+  <a href="https://github.com/zmy16/Tomato-Leaf-AI-Diagnosis"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=Tomato-Leaf-AI-Diagnosis&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3&cache_seconds=1" alt="Tomato-Leaf-AI-Diagnosis" /></a>
+  <a href="https://github.com/zmy16/terakhir-kali-app"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=terakhir-kali-app&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3&cache_seconds=1" alt="terakhir-kali-app" /></a>
+  <a href="https://github.com/zmy16/seqalign"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=seqalign&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3&cache_seconds=1" alt="seqalign" /></a>
+  <a href="https://github.com/zmy16/SenandCode"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=SenandCode&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3&cache_seconds=1" alt="SenandCode" /></a>
+  <a href="https://github.com/zmy16/absa-indo"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=absa-indo&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3&cache_seconds=1" alt="absa-indo" /></a>
+  <a href="https://github.com/zmy16/re-to-dfa-visualizer"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=re-to-dfa-visualizer&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3&cache_seconds=1" alt="re-to-dfa-visualizer" /></a>
 </p>
