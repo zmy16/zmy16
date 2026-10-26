@@ -19,7 +19,18 @@ Software Engineering student interested in software development and AI. Still le
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,nextjs,tailwind,tensorflow&perline=9" alt="Python, TypeScript, JavaScript, HTML5, CSS3, React, Next.js, Tailwind CSS, TensorFlow" />
+  <strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js&perline=10" alt="Python, TypeScript, JavaScript" />
+</p>
+
+<p>
+  <strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=10" alt="HTML5, CSS3, React, Next.js, Tailwind CSS" />
+</p>
+
+<p>
+  <strong>AI &amp; ML</strong><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow&perline=10" alt="TensorFlow" />
 </p>
 
 ## Projects
