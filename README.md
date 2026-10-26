@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raid <img src="./assets/wave.gif" width="44" height="43" valign="middle" style="vertical-align:middle" alt="waving hand" /></h1>
+<h1 align="center">Hi, I'm Raid <img src="./assets/wave.gif" width="44" height="43" valign="middle" style="vertical-align:middle;transform:translateY(-4px)" alt="waving hand" /></h1>
 
 <p align="center">
   <a href="https://github.com/zmy16">
