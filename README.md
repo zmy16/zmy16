@@ -19,7 +19,7 @@ Software Engineering student interested in software development and AI. Still le
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,tensorflow&perline=10" alt="Python, TypeScript, JavaScript, HTML5, CSS3, React, TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,nextjs,tailwind,tensorflow,pytorch,sklearn&perline=11" alt="Python, TypeScript, JavaScript, HTML5, CSS3, React, Next.js, Tailwind CSS, TensorFlow, PyTorch, scikit-learn" />
 </p>
 
 ## Projects
@@ -27,6 +27,8 @@ Software Engineering student interested in software development and AI. Still le
 <p align="center">
   <a href="https://github.com/zmy16/Tomato-Leaf-AI-Diagnosis"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=Tomato-Leaf-AI-Diagnosis&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="Tomato-Leaf-AI-Diagnosis" /></a>
   <a href="https://github.com/zmy16/terakhir-kali-app"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=terakhir-kali-app&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="terakhir-kali-app" /></a>
-  <a href="https://github.com/zmy16/Needleman-Wunsch-Algorithm"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=Needleman-Wunsch-Algorithm&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="Needleman-Wunsch-Algorithm" /></a>
+  <a href="https://github.com/zmy16/seqalign"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=seqalign&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="seqalign" /></a>
   <a href="https://github.com/zmy16/SenandCode"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=SenandCode&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="SenandCode" /></a>
+  <a href="https://github.com/zmy16/absa-indo"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=absa-indo&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="absa-indo" /></a>
+  <a href="https://github.com/zmy16/re-to-dfa-visualizer"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=re-to-dfa-visualizer&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="re-to-dfa-visualizer" /></a>
 </p>
