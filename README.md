@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/zmy16">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1800&color=8B949E&center=true&vCenter=true&width=460&height=40&lines=Software+Engineering+Student;AI+Enthusiast;Learning+by+building" alt="Software Engineering Student, AI Enthusiast, Learning by building" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=8B949E&center=true&vCenter=true&width=460&height=40&lines=Software+Engineering+Student;AI+Enthusiast;Learning+by+building" alt="Software Engineering Student, AI Enthusiast, Learning by building" />
   </a>
 </p>
 
@@ -12,9 +12,9 @@
   <a href="https://zmy16.eu.org"><img src="https://img.shields.io/badge/PORTFOLIO-5A7270?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxMmMyLjIxIDAgNC0xLjc5IDQtNHMtMS43OS00LTQtNC00IDEuNzktNCA0IDEuNzkgNCA0IDR6bTAgMmMtMi42NyAwLTggMS4zNC04IDR2MmgxNnYtMmMwLTIuNjYtNS4zMy00LTgtNHoiLz48L3N2Zz4%3D&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
-
 Software Engineering student interested in software development and AI. Still learning, and enjoy building along the way.
+
+Demos: [Tomato AI](https://tomat-ai-diagnosis.streamlit.app/) · [ABSA](https://absa-indo.streamlit.app/) · [seqalign](https://zmy16.github.io/seqalign/) · [RE→DFA](https://re-to-dfa-visualizer.netlify.app/) · [SenandCode](https://senandcode-web.vercel.app/)
 
 ## Tech stack
 
