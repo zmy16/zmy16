@@ -19,12 +19,12 @@ Software Engineering student interested in software development and AI. Still le
 ## Tech stack
 
 <p>
-  <strong>Languages &amp; AI</strong><br/>
+  <img src="./assets/chip-languages.svg" height="23" alt="Languages &amp; AI" /><br/>
   <img src="./assets/stack-languages.svg" height="48" alt="Python, TypeScript, JavaScript, TensorFlow" />
 </p>
 
 <p>
-  <strong>Frontend</strong><br/>
+  <img src="./assets/chip-frontend.svg" height="23" alt="Frontend" /><br/>
   <img src="./assets/stack-frontend.svg" height="48" alt="HTML5, CSS3, React, Next.js, Tailwind CSS" />
 </p>
 
