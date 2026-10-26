@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=708c8a&height=140&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=708c8a&height=100&section=header" width="100%" alt="" />
 
 <h1 align="center">Hi, I'm Raid <img src="./assets/wave.gif" width="40" height="43" valign="middle" style="vertical-align:middle" alt="waving hand" /></h1>
 
@@ -19,18 +19,13 @@ Software Engineering student interested in software development and AI. Still le
 ## Tech stack
 
 <p>
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=py,ts,js&perline=10" alt="Python, TypeScript, JavaScript" />
+  <strong>Languages &amp; AI</strong><br/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,tensorflow&perline=10" alt="Python, TypeScript, JavaScript, TensorFlow" />
 </p>
 
 <p>
   <strong>Frontend</strong><br/>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=10" alt="HTML5, CSS3, React, Next.js, Tailwind CSS" />
-</p>
-
-<p>
-  <strong>AI &amp; ML</strong><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow&perline=10" alt="TensorFlow" />
 </p>
 
 ## Projects
@@ -44,4 +39,4 @@ Software Engineering student interested in software development and AI. Still le
   <a href="https://github.com/zmy16/re-to-dfa-visualizer"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zmy16&repo=re-to-dfa-visualizer&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3&cache_seconds=1" alt="re-to-dfa-visualizer" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=708c8a&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=708c8a&height=90&section=footer" width="100%" alt="" />
