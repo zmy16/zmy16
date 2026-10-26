@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="74" height="28" viewBox="0 0 74 28">
-  <rect x="0.5" y="0.5" width="73" height="21" rx="8" ry="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="10" y="11.0" dominant-baseline="central" text-anchor="start"
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="34" viewBox="0 0 86 34">
+  <rect x="0.5" y="0.5" width="85" height="27" rx="9" ry="9" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="12" y="14.0" dominant-baseline="central" text-anchor="start"
         font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
-        font-size="13" font-weight="600" fill="#c9d1d9">Frontend</text>
+        font-size="15" font-weight="600" fill="#c9d1d9">Frontend</text>
 </svg>

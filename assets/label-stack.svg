@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="116" height="28" viewBox="0 0 116 28">
-  <rect x="0.5" y="0.5" width="115" height="21" rx="8" ry="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="10" y="11.0" dominant-baseline="central" text-anchor="start"
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="34" viewBox="0 0 134 34">
+  <rect x="0.5" y="0.5" width="133" height="27" rx="9" ry="9" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="12" y="14.0" dominant-baseline="central" text-anchor="start"
         font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif"
-        font-size="13" font-weight="600" fill="#c9d1d9">Languages &amp; AI</text>
+        font-size="15" font-weight="600" fill="#c9d1d9">Languages &amp; AI</text>
 </svg>
