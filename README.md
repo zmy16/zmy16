@@ -14,8 +14,6 @@
 
 Software Engineering student interested in software development and AI. Still learning, and enjoy building along the way.
 
-Demos: [Tomato AI](https://tomat-ai-diagnosis.streamlit.app/) · [ABSA](https://absa-indo.streamlit.app/) · [seqalign](https://zmy16.github.io/seqalign/) · [RE→DFA](https://re-to-dfa-visualizer.netlify.app/) · [SenandCode](https://senandcode-web.vercel.app/)
-
 ## Tech stack
 
 <p>
