@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=708c8a&height=100&section=header" width="100%" alt="" />
 
-<h1 align="center">Hi, I'm Raid <img src="./assets/wave.gif" width="40" height="43" valign="middle" style="vertical-align:middle" alt="waving hand" /></h1>
+<h1 align="center">Hi, I'm Raid <img src="./assets/wave.gif?v=3" width="42" height="40" valign="middle" style="vertical-align:middle" alt="waving hand" /></h1>
 
 <p align="center">
   <a href="https://github.com/zmy16">
