@@ -26,16 +26,6 @@
   <img src="./assets/stack-frontend.svg?v=2" height="48" alt="HTML5, CSS3, React, Next.js, Tailwind CSS" />
 </p>
 
-## WebTex
-
-<p>
-  <a href="https://github.com/zmy16/webtex"><img src="https://raw.githubusercontent.com/zmy16/webtex/main/docs/images/hero.png" width="100%" alt="WebTex" /></a>
-</p>
-
-Write scientific papers without learning LaTeX. Fill a form, get PDF and Word. Runs on your own computer. Six templates: IEEE, Elsevier, Springer LNCS, ACM, MDPI, Taylor &amp; Francis.
-
-<a href="https://github.com/zmy16/webtex"><img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="GPL-3.0" /></a>
-
 ## Projects
 
 <p align="center">
