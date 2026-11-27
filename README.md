@@ -41,12 +41,5 @@ Software Engineering student interested in software development and AI. Still le
   <a href="https://github.com/zmy16/re-to-dfa-visualizer"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=zmy16&repo=re-to-dfa-visualizer&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="re-to-dfa-visualizer" /></a>
 </p>
 
-## GitHub stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zmy16&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmy16&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d" alt="Top languages" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=708c8a&height=90&section=footer" width="100%" alt="" />
 
