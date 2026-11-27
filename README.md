@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=708c8a&height=100&section=header" width="100%" alt="" />
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=708c8a&height=100&section=header" width="100%" alt="" />
 
 <h1 align="center">Hi, I'm Raid <img src="./assets/wave.gif?v=3" width="42" height="40" valign="middle" style="vertical-align:middle" alt="waving hand" /></h1>
 
@@ -15,6 +15,8 @@
 </p>
 
 Software Engineering student interested in software development and AI. Still learning, and enjoy building along the way.
+
+> Currently building [WebTex](https://github.com/zmy16/webtex): an IEEE paper editor with no coding. Fill a form, get PDF and Word.
 
 ## Tech stack
 
@@ -33,10 +35,18 @@ Software Engineering student interested in software development and AI. Still le
 <p align="center">
   <a href="https://github.com/zmy16/Tomato-Leaf-AI-Diagnosis"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=zmy16&repo=Tomato-Leaf-AI-Diagnosis&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="Tomato-Leaf-AI-Diagnosis" /></a>
   <a href="https://github.com/zmy16/terakhir-kali-app"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=zmy16&repo=terakhir-kali-app&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="terakhir-kali-app" /></a>
-  <a href="https://github.com/zmy16/seqalign"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=zmy16&repo=seqalign&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="seqalign" /></a>
+  <a href="https://github.com/zmy16/webtex"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=zmy16&repo=webtex&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="WebTex" /></a>
   <a href="https://github.com/zmy16/SenandCode"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=zmy16&repo=SenandCode&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="SenandCode" /></a>
   <a href="https://github.com/zmy16/absa-indo"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=zmy16&repo=absa-indo&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="absa-indo" /></a>
   <a href="https://github.com/zmy16/re-to-dfa-visualizer"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=zmy16&repo=re-to-dfa-visualizer&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false&description_lines_count=3" alt="re-to-dfa-visualizer" /></a>
 </p>
 
+## GitHub stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zmy16&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=false" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmy16&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d" alt="Top languages" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=708c8a&height=90&section=footer" width="100%" alt="" />
+
