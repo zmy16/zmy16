@@ -14,10 +14,6 @@
   <a href="https://zmy16.eu.org"><img src="https://img.shields.io/badge/PORTFOLIO-5A7270?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxMmMyLjIxIDAgNC0xLjc5IDQtNHMtMS43OS00LTQtNC00IDEuNzktNCA0IDEuNzkgNCA0IDR6bTAgMmMtMi42NyAwLTggMS4zNC04IDR2MmgxNnYtMmMwLTIuNjYtNS4zMy00LTgtNHoiLz48L3N2Zz4%3D&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-Software Engineering student interested in software development and AI. Still learning, and enjoy building along the way.
-
-> Currently building [WebTex](https://github.com/zmy16/webtex): an IEEE paper editor with no coding. Fill a form, get PDF and Word.
-
 ## Tech stack
 
 <p>
